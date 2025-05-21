@@ -1,0 +1,15 @@
+com\mycompany\consultas\controller\PacienteController.class
+com\mycompany\consultas\view\Consultas.class
+com\mycompany\consultas\model\Paciente.class
+com\mycompany\consultas\dao\MedicoDAO.class
+com\mycompany\consultas\model\Medico.class
+com\mycompany\consultas\dao\Conexao.class
+com\mycompany\consultas\model\Consulta.class
+com\mycompany\consultas\dao\PacienteDAO.class
+com\mycompany\consultas\view\ConsultaView.class
+com\mycompany\consultas\view\PacienteView.class
+com\mycompany\consultas\dao\ConsultaDAO.class
+com\mycompany\consultas\view\MedicoView.class
+com\mycompany\consultas\controller\ConsultaController.class
+com\mycompany\consultas\dao\TesteConexao.class
+com\mycompany\consultas\controller\MedicoController.class
