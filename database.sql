@@ -37,8 +37,8 @@ CREATE TABLE consulta (
 );
 
 
-INSERT INTO paciente (nome, cpf, telefone) VALUES ('João Teste', '123.456.789-00', '11999999999');
-INSERT INTO medico (nome, especialidade, crm) VALUES ('Dra. Maria', 'Clínica Geral', 'CRM1234');
+INSERT INTO paciente (nome, cpf, telefone) VALUES ('Maicon', '123.456.789-00', '11999999999');
+INSERT INTO medico (nome, especialidade, crm) VALUES ('Dra. Grey', 'Clínica Geral', 'CRM1234');
 
 SHOW COLUMNS FROM consulta;
 
